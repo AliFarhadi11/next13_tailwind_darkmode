@@ -25,7 +25,7 @@ const Toggler = () => {
             <div
                 className={
                     isToggled
-                        ? "w-10 h-full rounded-full dark:bg-white bg-[#121212] transition-all translate-x-[3.95rem]"
+                        ? "w-10 h-full rounded-full dark:bg-white bg-[#121212] transition-all translate-x-[3.85rem]"
                         : "w-10 h-full rounded-full dark:bg-white bg-[#121212] transition-all"
                 }></div>
         </div>
